@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715539022916,
+      "tag": "0000_brown_scorpion",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715615459497,
+      "tag": "0001_wise_shinobi_shaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1715793928461,
+      "tag": "0002_sloppy_kingpin",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1715862272434,
+      "tag": "0003_kind_madame_masque",
+      "breakpoints": true
+    }
+  ]
+}
